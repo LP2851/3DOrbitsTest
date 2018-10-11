@@ -12,14 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-10-11T11:24:10.702+01:00
-  initializedAtString: 2018-10-11T10:50:44.504+01:00
+  lastUpdatedAtString: 2018-10-11T11:42:49.826+01:00
+  initializedAtString: 2018-10-11T11:33:48.695+01:00
   localBranches:
   - name: master
     tracking: '[None]'
-  remoteBranches:
-  - name: origin/master
-    tracking: '[None]'
+  remoteBranches: []
   remotes:
   - name: origin
     url: https://github.com/LP2851/3DOrbitsTest.git
@@ -38,18 +36,9 @@ MonoBehaviour:
         url: 
       trackingBranch: 
   remoteConfigBranches:
-    keys:
-    - origin
-    subKeys:
-    - Values:
-      - master
-    subKeyValues:
-    - Values:
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/LP2851/3DOrbitsTest.git
-        trackingBranch: 
+    keys: []
+    subKeys: []
+    subKeyValues: []
   configRemotes:
     keys:
     - origin

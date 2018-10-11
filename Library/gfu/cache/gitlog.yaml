@@ -12,9 +12,393 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-11T11:33:18.244+01:00
+  lastUpdatedAtString: 2018-10-11T11:43:21.071+01:00
   initializedAtString: 2018-10-11T11:28:49.449+01:00
   log:
+  - commitID: 8c27792d1b145f53d2104f3068afbf059a538c94
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Final Commit 2
+    description: "Final Commit 2\r\n\r\nFC2"
+    timeString: 2018-10-11T11:33:46.000+01:00
+    commitTimeString: 2018-10-11T11:33:46.000+01:00
+    changes:
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\EditorInstance.json
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\87\877ef3585573ce44eab899298be23158
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Orbit Test.Editor.Plugins.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.Editor.Plugins.csproj
+      projectPath: Orbit Test.Editor.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Orbit Test.sln
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.sln
+      projectPath: Orbit Test.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\UnityTempFile-02b9839f63dcb0c4e8d28998912b260f
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-02b9839f63dcb0c4e8d28998912b260f
+      projectPath: Temp\UnityTempFile-02b9839f63dcb0c4e8d28998912b260f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-02ee0870960d27e4cb2bd87c0bb0b3c8
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-02ee0870960d27e4cb2bd87c0bb0b3c8
+      projectPath: Temp\UnityTempFile-02ee0870960d27e4cb2bd87c0bb0b3c8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-17a92110eabdf9945be9136f60422f26
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-17a92110eabdf9945be9136f60422f26
+      projectPath: Temp\UnityTempFile-17a92110eabdf9945be9136f60422f26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-287e3a33bde65cf4d80cef5c1e2388a3
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-287e3a33bde65cf4d80cef5c1e2388a3
+      projectPath: Temp\UnityTempFile-287e3a33bde65cf4d80cef5c1e2388a3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-2e10afb88f09c114085e92a6e4cac4e5
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-2e10afb88f09c114085e92a6e4cac4e5
+      projectPath: Temp\UnityTempFile-2e10afb88f09c114085e92a6e4cac4e5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-349147a4c647ce94791e08da22c9ab2f
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-349147a4c647ce94791e08da22c9ab2f
+      projectPath: Temp\UnityTempFile-349147a4c647ce94791e08da22c9ab2f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-3a48139bdebe8404ca56c8b784e55de6
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-3a48139bdebe8404ca56c8b784e55de6
+      projectPath: Temp\UnityTempFile-3a48139bdebe8404ca56c8b784e55de6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-4bb0cbc20088bdf4ba331a12fff2a2fa
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-4bb0cbc20088bdf4ba331a12fff2a2fa
+      projectPath: Temp\UnityTempFile-4bb0cbc20088bdf4ba331a12fff2a2fa
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-505868a6cb7ee7740bb1098a06c7fdb1
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-505868a6cb7ee7740bb1098a06c7fdb1
+      projectPath: Temp\UnityTempFile-505868a6cb7ee7740bb1098a06c7fdb1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-63c7e640544acca489342f73fcfc085b
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-63c7e640544acca489342f73fcfc085b
+      projectPath: Temp\UnityTempFile-63c7e640544acca489342f73fcfc085b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-65927b3217e89db4e8874de5edba04de
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-65927b3217e89db4e8874de5edba04de
+      projectPath: Temp\UnityTempFile-65927b3217e89db4e8874de5edba04de
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-80f38a3da1f881846b79a076f13c887f
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-80f38a3da1f881846b79a076f13c887f
+      projectPath: Temp\UnityTempFile-80f38a3da1f881846b79a076f13c887f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-812c5efccb6dfaf46ad34d9d632e7a8c
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-812c5efccb6dfaf46ad34d9d632e7a8c
+      projectPath: Temp\UnityTempFile-812c5efccb6dfaf46ad34d9d632e7a8c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-866c30435b7485944916bc93c1687073
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-866c30435b7485944916bc93c1687073
+      projectPath: Temp\UnityTempFile-866c30435b7485944916bc93c1687073
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-a5d6a3c44852b4648b434a8e5573ab8a
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-a5d6a3c44852b4648b434a8e5573ab8a
+      projectPath: Temp\UnityTempFile-a5d6a3c44852b4648b434a8e5573ab8a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-a5fd1d2e26295774b8d63acb9d405436
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-a5fd1d2e26295774b8d63acb9d405436
+      projectPath: Temp\UnityTempFile-a5fd1d2e26295774b8d63acb9d405436
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-a9a2b7851773e654e9a25a129175ad37
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-a9a2b7851773e654e9a25a129175ad37
+      projectPath: Temp\UnityTempFile-a9a2b7851773e654e9a25a129175ad37
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-c2d07a586ef8fb24ebb85082982cda47
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-c2d07a586ef8fb24ebb85082982cda47
+      projectPath: Temp\UnityTempFile-c2d07a586ef8fb24ebb85082982cda47
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-d3d699bff1a55464c8dab0889dffd957
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-d3d699bff1a55464c8dab0889dffd957
+      projectPath: Temp\UnityTempFile-d3d699bff1a55464c8dab0889dffd957
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-d4d4d9d5aa86ad74b827c4df8ac7ec6d
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-d4d4d9d5aa86ad74b827c4df8ac7ec6d
+      projectPath: Temp\UnityTempFile-d4d4d9d5aa86ad74b827c4df8ac7ec6d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-dfbebeae3a860fb4aa68700a4eff4647
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-dfbebeae3a860fb4aa68700a4eff4647
+      projectPath: Temp\UnityTempFile-dfbebeae3a860fb4aa68700a4eff4647
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-e6407d68086240649b2376dcb97cb5f2
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-e6407d68086240649b2376dcb97cb5f2
+      projectPath: Temp\UnityTempFile-e6407d68086240649b2376dcb97cb5f2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\UnityTempFile-eae9d8e51add03a4fb076b949868a820
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\UnityTempFile-eae9d8e51add03a4fb076b949868a820
+      projectPath: Temp\UnityTempFile-eae9d8e51add03a4fb076b949868a820
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Unity.PackageManagerUI.Editor.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Unity.PackageManagerUI.Editor.csproj
+      projectPath: Unity.PackageManagerUI.Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Unity.TextMeshPro.Editor.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Unity.TextMeshPro.Editor.csproj
+      projectPath: Unity.TextMeshPro.Editor.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Unity.TextMeshPro.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Unity.TextMeshPro.csproj
+      projectPath: Unity.TextMeshPro.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: UnityEditor.StandardEvents.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\UnityEditor.StandardEvents.csproj
+      projectPath: UnityEditor.StandardEvents.csproj
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: db9630fb16e3c9ddac329835b7eeb6273b42ce0c
     mergeA: 
     mergeB: 
