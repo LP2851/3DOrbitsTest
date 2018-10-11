@@ -12,9 +12,748 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-11T11:43:21.071+01:00
+  lastUpdatedAtString: 2018-10-11T12:12:26.465+01:00
   initializedAtString: 2018-10-11T11:28:49.449+01:00
   log:
+  - commitID: 6a1c24fd65165e7d56c1c51872db1f3448b944fa
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Renaming Prefabs
+    description: Renaming Prefabs
+    timeString: 2018-10-11T12:03:57.000+01:00
+    commitTimeString: 2018-10-11T12:03:57.000+01:00
+    changes:
+    - path: "(1).prefab\tAssets\\Prefab\\Sphere 2.prefab"
+      fullPath: "C:\\Users\\lucas\\Desktop\\Unity Projects\\Orbit Test\\(1).prefab\tAssets\\Prefab\\Sphere
+        2.prefab"
+      projectPath: "(1).prefab\tAssets\\Prefab\\Sphere 2.prefab"
+      originalPath: Assets\Prefab\Sphere
+      status: 6
+      staged: 0
+    - path: "(1).prefab.meta\tAssets\\Prefab\\Sphere 2.prefab.meta"
+      fullPath: "C:\\Users\\lucas\\Desktop\\Unity Projects\\Orbit Test\\(1).prefab.meta\tAssets\\Prefab\\Sphere
+        2.prefab.meta"
+      projectPath: "(1).prefab.meta\tAssets\\Prefab\\Sphere 2.prefab.meta"
+      originalPath: Assets\Prefab\Sphere
+      status: 6
+      staged: 0
+    - path: "(2).prefab\tAssets\\Prefab\\Sphere 3.prefab"
+      fullPath: "C:\\Users\\lucas\\Desktop\\Unity Projects\\Orbit Test\\(2).prefab\tAssets\\Prefab\\Sphere
+        3.prefab"
+      projectPath: "(2).prefab\tAssets\\Prefab\\Sphere 3.prefab"
+      originalPath: Assets\Prefab\Sphere
+      status: 6
+      staged: 0
+    - path: "(2).prefab.meta\tAssets\\Prefab\\Sphere 3.prefab.meta"
+      fullPath: "C:\\Users\\lucas\\Desktop\\Unity Projects\\Orbit Test\\(2).prefab.meta\tAssets\\Prefab\\Sphere
+        3.prefab.meta"
+      projectPath: "(2).prefab.meta\tAssets\\Prefab\\Sphere 3.prefab.meta"
+      originalPath: Assets\Prefab\Sphere
+      status: 6
+      staged: 0
+  - commitID: 71d8b1478a2c38c5a7d7456e6e4d2db3e6d5ff6b
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create README.md file
+    description: Create README.md file
+    timeString: 2018-10-11T11:58:35.000+01:00
+    commitTimeString: 2018-10-11T11:58:35.000+01:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 6a92d22ec5196d245b06dd7f133f3d7eb980c507
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Added Scripts Folder
+    description: "Added Scripts Folder\r\n\r\nAdded Script folder"
+    timeString: 2018-10-11T11:51:17.000+01:00
+    commitTimeString: 2018-10-11T11:51:17.000+01:00
+    changes:
+    - path: Assets\Scripts.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scripts\CameraMovement.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\CameraMovement.cs
+      projectPath: Assets\Scripts\CameraMovement.cs
+      originalPath: Assets\CameraMovement.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\CameraMovement.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\CameraMovement.cs.meta
+      projectPath: Assets\Scripts\CameraMovement.cs.meta
+      originalPath: Assets\CameraMovement.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Collide.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Collide.cs
+      projectPath: Assets\Scripts\Collide.cs
+      originalPath: Assets\Collide.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Collide.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Collide.cs.meta
+      projectPath: Assets\Scripts\Collide.cs.meta
+      originalPath: Assets\Collide.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Orbit.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Orbit.cs
+      projectPath: Assets\Scripts\Orbit.cs
+      originalPath: Assets\Orbit.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Orbit.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Orbit.cs.meta
+      projectPath: Assets\Scripts\Orbit.cs.meta
+      originalPath: Assets\Orbit.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\PlayerMovement.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\PlayerMovement.cs
+      projectPath: Assets\Scripts\PlayerMovement.cs
+      originalPath: Assets\PlayerMovement.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\PlayerMovement.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\PlayerMovement.cs.meta
+      projectPath: Assets\Scripts\PlayerMovement.cs.meta
+      originalPath: Assets\PlayerMovement.cs.meta
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Spawner.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Spawner.cs
+      projectPath: Assets\Scripts\Spawner.cs
+      originalPath: Assets\Spawner.cs
+      status: 6
+      staged: 0
+    - path: Assets\Scripts\Spawner.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scripts\Spawner.cs.meta
+      projectPath: Assets\Scripts\Spawner.cs.meta
+      originalPath: Assets\Spawner.cs.meta
+      status: 6
+      staged: 0
+  - commitID: a103b5a22a3bc7380c77f4dbb392f4247df53829
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Revert "Revert "Revert "Initial commit"""
+    description: "Revert \"Revert \"Revert \"Initial commit\"\"\"\r\n\r\nThis reverts
+      commit 5fa04295c8edda25c7344999e2c4469f6c9c163a."
+    timeString: 2018-10-11T11:45:10.000+01:00
+    commitTimeString: 2018-10-11T11:45:10.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: 5fa04295c8edda25c7344999e2c4469f6c9c163a
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Revert "Revert "Initial commit""
+    description: "Revert \"Revert \"Initial commit\"\"\r\n\r\nThis reverts commit
+      9db98918e510aaf581257cad20b92d32b977d02a."
+    timeString: 2018-10-11T11:44:46.000+01:00
+    commitTimeString: 2018-10-11T11:44:46.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 430f5cc9b78f7448ac998b71226010a125806702
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Temp Files
+    description: "Temp Files\r\n\r\nTF"
+    timeString: 2018-10-11T11:44:12.000+01:00
+    commitTimeString: 2018-10-11T11:44:12.000+01:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\.icon.png
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\.icon.png
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\.icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\0188ec438976e5849b40a2c1ce5f20f9\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\136dc24f151211d438acee17aff4e934\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\151a1d946b98deb4b98445400983ba92\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\15ca2bebf173f2d4484686a03a45b56d\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\18e096a98c2704c40a818dd1214cd179\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\21206c65839f84d0e9ae14bc1fdc68db\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\23c8bee69b591054094d32918f98facd\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\2590b98e5cafc4e32b61170d7b917ee6\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\636d33ae594884e7d80b569f429d245d\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\68c7e4565cde54155bb78d8e935f1dd4\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\720712be6e31c444f88f57bb85bf5fa5\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\790749ba7e4b18141953e39cb13f1b79\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\868fbb4c41814baebc00f96e24ede2f8\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\99b48d4d4f6a66340ab06bd487d70a45\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a0ded7adcc817ce489fec07977f16d13\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\a83159a46d87d2a4f8cec651049b9231\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c5c83d14802e712408f23409f3c59e26\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\c743ae24ee231884887054d20ccdd0ae\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\cad92998c5182496e8b989b406d9f156\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d516f2a1bec6a9645a084ef8c9237132\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ddb8611e748af425a82a497ac5a98c0c\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\ecfb28d906a32914d956497c8d3b3395\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\preview.png
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\preview.png
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f81094832d834c64d93b198cb16b6a3e\preview.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+      projectPath: Temp\Export Package\670a2a817c6dbb14a8072e1c6c5bea79\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Temp\TarGZ\GitHub for Unity
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\TarGZ\GitHub
+        for Unity
+      projectPath: Temp\TarGZ\GitHub for Unity
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 8c27792d1b145f53d2104f3068afbf059a538c94
     mergeA: 
     mergeB: 
