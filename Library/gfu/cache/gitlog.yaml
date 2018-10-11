@@ -1,0 +1,686 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-10-11T11:18:02.712+01:00
+  initializedAtString: 2018-10-11T10:50:45.899+01:00
+  log:
+  - commitID: 9db98918e510aaf581257cad20b92d32b977d02a
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Revert "Initial commit"
+    description: "Revert \"Initial commit\"\r\n\r\nThis reverts commit 93d12b2cfee57bea98caedd441581ba529414d10."
+    timeString: 2018-10-11T10:52:09.000+01:00
+    commitTimeString: 2018-10-11T10:52:09.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 5
+      staged: 0
+  - commitID: ff7fa260eea389aa36c648df1166ec77f86901cc
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Added all work done so far
+    description: "Added all work done so far\r\n\r\nEverything works but gets laggy
+      quickly"
+    timeString: 2018-10-11T10:51:33.000+01:00
+    commitTimeString: 2018-10-11T10:51:33.000+01:00
+    changes:
+    - path: Assets\CameraMovement.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\CameraMovement.cs
+      projectPath: Assets\CameraMovement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\CameraMovement.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\CameraMovement.cs.meta
+      projectPath: Assets\CameraMovement.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Collide.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Collide.cs
+      projectPath: Assets\Collide.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Collide.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Collide.cs.meta
+      projectPath: Assets\Collide.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material 2.mat
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material
+        2.mat
+      projectPath: Assets\Materials\Material 2.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material 2.mat.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material
+        2.mat.meta
+      projectPath: Assets\Materials\Material 2.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material 3.mat
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material
+        3.mat
+      projectPath: Assets\Materials\Material 3.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material 3.mat.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material
+        3.mat.meta
+      projectPath: Assets\Materials\Material 3.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material.mat
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material.mat
+      projectPath: Assets\Materials\Material.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Material.mat.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Material.mat.meta
+      projectPath: Assets\Materials\Material.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particle.mat
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Particle.mat
+      projectPath: Assets\Materials\Particle.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Particle.mat.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Particle.mat.meta
+      projectPath: Assets\Materials\Particle.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Sun.mat
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Sun.mat
+      projectPath: Assets\Materials\Sun.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Materials\Sun.mat.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Materials\Sun.mat.meta
+      projectPath: Assets\Materials\Sun.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Orbit.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Orbit.cs
+      projectPath: Assets\Orbit.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Orbit.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Orbit.cs.meta
+      projectPath: Assets\Orbit.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\PlayerMovement.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\PlayerMovement.cs
+      projectPath: Assets\PlayerMovement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\PlayerMovement.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\PlayerMovement.cs.meta
+      projectPath: Assets\PlayerMovement.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab.meta
+      projectPath: Assets\Prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere (1).prefab
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere
+        (1).prefab
+      projectPath: Assets\Prefab\Sphere (1).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere (1).prefab.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere
+        (1).prefab.meta
+      projectPath: Assets\Prefab\Sphere (1).prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere (2).prefab
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere
+        (2).prefab
+      projectPath: Assets\Prefab\Sphere (2).prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere (2).prefab.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere
+        (2).prefab.meta
+      projectPath: Assets\Prefab\Sphere (2).prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere.prefab
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere.prefab
+      projectPath: Assets\Prefab\Sphere.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Prefab\Sphere.prefab.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Prefab\Sphere.prefab.meta
+      projectPath: Assets\Prefab\Sphere.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Scene.unity
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scenes\Scene.unity
+      projectPath: Assets\Scenes\Scene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Scene.unity.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Scenes\Scene.unity.meta
+      projectPath: Assets\Scenes\Scene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Spawner.cs
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Spawner.cs
+      projectPath: Assets\Spawner.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Spawner.cs.meta
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\Spawner.cs.meta
+      projectPath: Assets\Spawner.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 93d12b2cfee57bea98caedd441581ba529414d10
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-10-11T10:49:58.000+01:00
+    commitTimeString: 2018-10-11T10:49:58.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
