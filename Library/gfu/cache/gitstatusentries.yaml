@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-10-11T11:20:54.989+01:00
+  lastUpdatedAtString: 2018-10-11T11:21:19.744+01:00
   initializedAtString: 2018-10-11T10:50:01.502+01:00
   entries:
   - path: Library\gfu\cache\branches.yaml
@@ -39,17 +39,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Orbit Test.csproj
-    fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.csproj
-    projectPath: Orbit Test.csproj
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Orbit Test.sln
-    fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.sln
-    projectPath: Orbit Test.sln
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert

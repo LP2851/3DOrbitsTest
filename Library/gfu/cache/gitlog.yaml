@@ -12,9 +12,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-10-11T11:20:32.733+01:00
+  lastUpdatedAtString: 2018-10-11T11:21:06.813+01:00
   initializedAtString: 2018-10-11T10:50:45.899+01:00
   log:
+  - commitID: a7d2aaa667e0595b35bf80b874c7216f43aec89c
+    mergeA: 
+    mergeB: 
+    authorName: LP2851
+    authorEmail: lucas.phillips28@hotmail.com
+    commitEmail: lucas.phillips28@hotmail.com
+    commitName: LP2851
+    summary: Added more
+    description: Added more
+    timeString: 2018-10-11T11:21:04.000+01:00
+    commitTimeString: 2018-10-11T11:21:04.000+01:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Orbit Test.csproj
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.csproj
+      projectPath: Orbit Test.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Orbit Test.sln
+      fullPath: C:\Users\lucas\Desktop\Unity Projects\Orbit Test\Orbit Test.sln
+      projectPath: Orbit Test.sln
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 9c16f8ce1b0d46b1e50c2bb75ca59b0c9a3b2ef6
     mergeA: 
     mergeB: 
